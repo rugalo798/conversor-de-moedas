@@ -2,10 +2,12 @@
   display: flex;
   margin-top: 40px;
   justify-content: space-around;
+  color: '#750ce1';
 }
 
 h1 {
   text-align: center;
+  color: '#750ce1';
 }
 
 .App {
