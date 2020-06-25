@@ -19,6 +19,10 @@ class App extends Component {
           <Conversor moedaA="EUR" moedaB="BRL" />
           <Conversor moedaA="BRL" moedaB="EUR" />
         </div>
+        <div className="linha">
+          <Conversor moedaA="PHP" moedaB="BRL" />
+          <Conversor moedaA="BRL" moedaB="PHP" />
+        </div>
       </div>
     );
   }
